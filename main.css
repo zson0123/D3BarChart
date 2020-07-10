@@ -1,12 +1,4 @@
 
-
-.bar {
-    fill: gray;
-    position: relative;
-    z-index: 100;
-}
-
-.bar:hover {
-    fill: red;
-
+.winner {
+    color: green;
 }
